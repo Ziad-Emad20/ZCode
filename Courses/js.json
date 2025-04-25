@@ -1,0 +1,9 @@
+[
+    {
+        "id" : "1",
+        "title" : "JavaScript Course for Beginners",
+        "instractor" : "Mosh",
+        "videoPath" : "https://youtu.be/W6NZfCO5SIk?si=9NuGPrqplhO3y-p9",
+        "thumbnail" : "/Image/JSImage/1.jpg"
+    }
+]
