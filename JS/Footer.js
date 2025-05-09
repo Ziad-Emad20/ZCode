@@ -15,7 +15,7 @@ let footer = `
         <ul class="list-unstyled">
           <li><a href="/index.html" class="text-decoration-none text-secondary">Home</a></li>
           <li><a href="/index.html#services" class="text-decoration-none text-secondary">Services</a></li>
-          <li><a href="#" class="text-decoration-none text-secondary">Courses</a></li>
+          <li><a href="/index.html#courses" class="text-decoration-none text-secondary">Courses</a></li>
           <li><a href="/Pages/Contact.html" class="text-decoration-none text-secondary">Contact</a></li>
         </ul>
       </div>

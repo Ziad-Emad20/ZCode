@@ -13,7 +13,7 @@ let navbar = `
                 <div class="navbar-nav">
                     <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
                     <a class="nav-link" href="/index.html#services">Services</a>
-                    <a class="nav-link" href="">Course</a>
+                    <a class="nav-link" href="/index.html#courses">Course</a>
                     <a class="nav-link" href="/Pages/Contact.html">Contact</a>
                 </div>
             </div>
