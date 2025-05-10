@@ -51,7 +51,8 @@ input:focus, textarea:focus {
       width: 18rem;
       transition: transform 0.3s ease;
     }
-    .course-card:hover {
+    .course-card:hover,
+    #services .cardStyle:hover {
       transform: translateY(-5px);
     }
     .swiper {

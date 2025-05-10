@@ -1,0 +1,31 @@
+#htmlCoursePage,
+#bootstrapCoursePage {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 5rem;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+#htmlCoursePage:hover,
+#bootstrapCoursePage:hover {
+    overflow: auto;
+}
+
+#htmlCoursePage::-webkit-scrollbar,
+#bootstrapCoursePage::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+
+@media (max-width: 768px) {
+
+    #htmlCoursePage,
+    #bootstrapCoursePage {
+        justify-content: center;
+    }
+}

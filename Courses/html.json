@@ -3,260 +3,296 @@
         "id" : "1",
         "title" : "What do you want to learn?",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/6QAELgirvjs?si=QLmulGvwPq15fCUW",
-        "thumbnail" : "/Image/HtmlImage/1.avif"
+        "pagePath" : "https://youtu.be/6QAELgirvjs?si=QLmulGvwPq15fCUW",
+        "thumbnail" : "/Image/HtmlImage/1.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "2",
         "title" : "Elements And Browser",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/7LxA9qXUY5k?si=P7yjRBYlsU06MbWO",
-        "thumbnail" : "/Image/HtmlImage/2.avif"
+        "pagePath" : "https://youtu.be/7LxA9qXUY5k?si=P7yjRBYlsU06MbWO",
+        "thumbnail" : "/Image/HtmlImage/2.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "3",
         "title" : "First Project And First Page",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/QG5aEmS9Fu0?si=ZEXt5YFw9fjTFgJv",
-        "thumbnail" : "/Image/HtmlImage/3.avif"
+        "pagePath" : "https://youtu.be/QG5aEmS9Fu0?si=ZEXt5YFw9fjTFgJv",
+        "thumbnail" : "/Image/HtmlImage/3.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "4",
         "title" : "Head And Nested Elements",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/dVgTBEYCseU?si=fWNQy-0tvMCrx79z",
-        "thumbnail" : "/Image/HtmlImage/4.avif"
+        "pagePath" : "https://youtu.be/dVgTBEYCseU?si=fWNQy-0tvMCrx79z",
+        "thumbnail" : "/Image/HtmlImage/4.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "5",
         "title" : "Comments And Use Cases",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/3lXuWHtm7PM?si=qpddcFkYk-2Yn6El",
-        "thumbnail" : "/Image/HtmlImage/5.avif"
+        "pagePath" : "https://youtu.be/3lXuWHtm7PM?si=qpddcFkYk-2Yn6El",
+        "thumbnail" : "/Image/HtmlImage/5.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "6",
         "title" : "Doctype Standard",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/sBFemL2Mfj4?si=9f64H_-R8Fz_6ngv",
-        "thumbnail" : "/Image/HtmlImage/6.avif"
+        "pagePath" : "https://youtu.be/sBFemL2Mfj4?si=9f64H_-R8Fz_6ngv",
+        "thumbnail" : "/Image/HtmlImage/6.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "7",
         "title" : "Heading",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/XxkX8wnRq3s?si=r-ra7yk9IsTNLq43",
-        "thumbnail" : "/Image/HtmlImage/7.avif"
+        "pagePath" : "https://youtu.be/XxkX8wnRq3s?si=r-ra7yk9IsTNLq43",
+        "thumbnail" : "/Image/HtmlImage/7.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "8",
         "title" : "Syntax And Tests",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/S58smWj5Yn0?si=OJ5vRy8YRint5xus",
-        "thumbnail" : "/Image/HtmlImage/8.avif"
+        "pagePath" : "https://youtu.be/S58smWj5Yn0?si=OJ5vRy8YRint5xus",
+        "thumbnail" : "/Image/HtmlImage/8.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "9",
         "title" : "Paragrah Element",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/Fpibp-291xQ?si=kH872zjvulj_rffI",
-        "thumbnail" : "/Image/HtmlImage/9.avif"
+        "pagePath" : "https://youtu.be/Fpibp-291xQ?si=kH872zjvulj_rffI",
+        "thumbnail" : "/Image/HtmlImage/9.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "10",
         "title" : "Elements Attributes",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/nCpNsMgyzh4?si=926wUlfciAcL7HhO",
-        "thumbnail" : "/Image/HtmlImage/10.avif"
+        "pagePath" : "https://youtu.be/nCpNsMgyzh4?si=926wUlfciAcL7HhO",
+        "thumbnail" : "/Image/HtmlImage/10.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "11",
         "title" : "Formatting Elements",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/zhwqvfoi50Q?si=uIYsQux7woHIJeyV",
-        "thumbnail" : "/Image/HtmlImage/11.avif"
+        "pagePath" : "https://youtu.be/zhwqvfoi50Q?si=uIYsQux7woHIJeyV",
+        "thumbnail" : "/Image/HtmlImage/11.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "12",
         "title" : "Link Anchor Tag",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/7TQhxAOjd1w?si=jTg5BJm5HJuOUtF3",
-        "thumbnail" : "/Image/HtmlImage/12.avif"
+        "pagePath" : "https://youtu.be/7TQhxAOjd1w?si=jTg5BJm5HJuOUtF3",
+        "thumbnail" : "/Image/HtmlImage/12.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "13",
         "title" : "Image",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/FmIUk3bWGmU?si=9164MuEXXQR_WcWU",
-        "thumbnail" : "/Image/HtmlImage/13.avif"
+        "pagePath" : "https://youtu.be/FmIUk3bWGmU?si=9164MuEXXQR_WcWU",
+        "thumbnail" : "/Image/HtmlImage/13.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "14",
         "title" : "Lists",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/8Z7zR-UGjcQ?si=lVDX8QP2pe4JOraE",
-        "thumbnail" : "/Image/HtmlImage/14.avif"
+        "pagePath" : "https://youtu.be/8Z7zR-UGjcQ?si=lVDX8QP2pe4JOraE",
+        "thumbnail" : "/Image/HtmlImage/14.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "15",
         "title" : "Table",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/SUW49Jjxvac?si=rPcXc-_uRAjZB0iW",
-        "thumbnail" : "/Image/HtmlImage/15.avif"
+        "pagePath" : "https://youtu.be/SUW49Jjxvac?si=rPcXc-_uRAjZB0iW",
+        "thumbnail" : "/Image/HtmlImage/15.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "16",
         "title" : "Span And Break And Horizontal Rule",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/T2myRpY2iN4?si=ovOycpPiWUTnCBcL",
-        "thumbnail" : "/Image/HtmlImage/16.avif"
+        "pagePath" : "https://youtu.be/T2myRpY2iN4?si=ovOycpPiWUTnCBcL",
+        "thumbnail" : "/Image/HtmlImage/16.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "17",
         "title" : "Div And How To Use",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/IGeh2mlM9Rg?si=8KTJfJCeHPA5IP2e",
-        "thumbnail" : "/Image/HtmlImage/17.avif"
+        "pagePath" : "https://youtu.be/IGeh2mlM9Rg?si=8KTJfJCeHPA5IP2e",
+        "thumbnail" : "/Image/HtmlImage/17.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "18",
         "title" : "HTML Entities",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/B8raKziIYyY?si=3qM19cLiTzmiNIxO",
-        "thumbnail" : "/Image/HtmlImage/18.avif"
+        "pagePath" : "https://youtu.be/B8raKziIYyY?si=3qM19cLiTzmiNIxO",
+        "thumbnail" : "/Image/HtmlImage/18.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "19",
         "title" : "Semantic Elements",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/xlQwlfvrDuI?si=UKykkvb3W2WDlByJ",
-        "thumbnail" : "/Image/HtmlImage/19.avif"
+        "pagePath" : "https://youtu.be/xlQwlfvrDuI?si=UKykkvb3W2WDlByJ",
+        "thumbnail" : "/Image/HtmlImage/19.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "20",
         "title" : "Layout With Div And Class",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/r6LhFImQxeE?si=Ky6P5yCfbRIfsDbR",
-        "thumbnail" : "/Image/HtmlImage/20.avif"
+        "pagePath" : "https://youtu.be/r6LhFImQxeE?si=Ky6P5yCfbRIfsDbR",
+        "thumbnail" : "/Image/HtmlImage/20.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "21",
         "title" : "Layout With Semantic Elements",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/uj5lC-GQPEw?si=4ay6GsKdBNJQfvye",
-        "thumbnail" : "/Image/HtmlImage/21.avif"
+        "pagePath" : "https://youtu.be/uj5lC-GQPEw?si=4ay6GsKdBNJQfvye",
+        "thumbnail" : "/Image/HtmlImage/21.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "22",
         "title" : "Audio",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/KltQb6cJSd8?si=Yt0XKlYfKXT-cpDj",
-        "thumbnail" : "/Image/HtmlImage/22.avif"
+        "pagePath" : "https://youtu.be/KltQb6cJSd8?si=Yt0XKlYfKXT-cpDj",
+        "thumbnail" : "/Image/HtmlImage/22.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "23",
         "title" : "Video",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/oJbo28ewnL4?si=od3d3v-7wkerNYqP",
-        "thumbnail" : "/Image/HtmlImage/23.avif"
+        "pagePath" : "https://youtu.be/oJbo28ewnL4?si=od3d3v-7wkerNYqP",
+        "thumbnail" : "/Image/HtmlImage/23.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "24",
         "title" : "Form Part 1",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/inC9gWjNMJI?si=_hr4iAhM_-61gik3",
-        "thumbnail" : "/Image/HtmlImage/24.avif"
+        "pagePath" : "https://youtu.be/inC9gWjNMJI?si=_hr4iAhM_-61gik3",
+        "thumbnail" : "/Image/HtmlImage/24.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "25",
         "title" : "Form Part 2",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/3xd1IQ3llBk?si=8AJ8HDCpCn_PqMjd",
-        "thumbnail" : "/Image/HtmlImage/25.avif"
+        "pagePath" : "https://youtu.be/3xd1IQ3llBk?si=8AJ8HDCpCn_PqMjd",
+        "thumbnail" : "/Image/HtmlImage/25.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "26",
         "title" : "Form Part 3",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/Anfn7RzoDHw?si=ENsxsN9DyDllG3iP",
-        "thumbnail" : "/Image/HtmlImage/26.avif"
+        "pagePath" : "https://youtu.be/Anfn7RzoDHw?si=ENsxsN9DyDllG3iP",
+        "thumbnail" : "/Image/HtmlImage/26.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "27",
         "title" : "Form Part 4",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/ZUax-YsT57I?si=a9NjOtPYHu7xTRPh",
-        "thumbnail" : "/Image/HtmlImage/27.avif"
+        "pagePath" : "https://youtu.be/ZUax-YsT57I?si=a9NjOtPYHu7xTRPh",
+        "thumbnail" : "/Image/HtmlImage/27.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "28",
         "title" : "Form Part 5",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/rpPIRitcAn8?si=RpnwRxWyuIdItdPU",
-        "thumbnail" : "/Image/HtmlImage/28.avif"
+        "pagePath" : "https://youtu.be/rpPIRitcAn8?si=RpnwRxWyuIdItdPU",
+        "thumbnail" : "/Image/HtmlImage/28.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "29",
         "title" : "Form Part 6",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/YAcn1MyAcDM?si=ikPREDzUU_omRbUI",
-        "thumbnail" : "/Image/HtmlImage/29.avif"
+        "pagePath" : "https://youtu.be/YAcn1MyAcDM?si=ikPREDzUU_omRbUI",
+        "thumbnail" : "/Image/HtmlImage/29.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "30",
         "title" : "Form Part 7",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/HGB42mnD0o4?si=BbsjjLr_V110HwjR",
-        "thumbnail" : "/Image/HtmlImage/30.avif"
+        "pagePath" : "https://youtu.be/41qD_t9IJWA?si=F9cIweRqu3hFfpp8",
+        "thumbnail" : "/Image/HtmlImage/30.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "31",
         "title" : "Form Part 8",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/cSmE9cVeaYg?si=aSXoBMM3DmzbYItm",
-        "thumbnail" : "/Image/HtmlImage/31.avif"
+        "pagePath" : "https://youtu.be/ZrrpQLQOXv4?si=_78H_xhEGBc98chE",
+        "thumbnail" : "/Image/HtmlImage/31.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "32",
-        "title" : "Form Part 9",
+        "title" : "Summary About Forms",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/X_TGbRuZ80Q?si=HmD52ryLrKvdlkiL",
-        "thumbnail" : "/Image/HtmlImage/32.avif"
+        "pagePath" : "https://youtu.be/MjPjlb8gJrE?si=JwAKINpk5wZmQdLo",
+        "thumbnail" : "/Image/HtmlImage/32.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "33",
-        "title" : "Q And BlockQuote",
+        "title" : "Practice Project",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/AzjtVtxoBLc?si=vhQ6RBo37_bQwQC7",
-        "thumbnail" : "/Image/HtmlImage/33.avif"
+        "pagePath" : "https://youtu.be/VbHRlk9OaYM?si=fnk4Lx1JQZetmZkl",
+        "thumbnail" : "/Image/HtmlImage/33.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "34",
-        "title" : "IFrame Pre And Code",
+        "title" : "How to use Google Fonts",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/aycYLVSOtZo?si=zvtlBR0dY0ry0nXT",
-        "thumbnail" : "/Image/HtmlImage/34.avif"
+        "pagePath" : "https://youtu.be/5f8wJftnxtE?si=jgNlAav3vO6DNMds",
+        "thumbnail" : "/Image/HtmlImage/34.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "35",
-        "title" : "Accessibility",
+        "title" : "Get Started with CSS",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/lSqXHePabFo?si=fffoIOOnMt7UOy4-",
-        "thumbnail" : "/Image/HtmlImage/35.avif"
+        "pagePath" : "https://youtu.be/C4QOXYgdQj8?si=eqelLgH61DNROELK",
+        "thumbnail" : "/Image/HtmlImage/35.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "36",
-        "title" : "ARIA And Screen Readers",
+        "title" : "What is Flexbox?",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/UnTxFfbpqco?si=MC_gPbrX9iqDfuTC",
-        "thumbnail" : "/Image/HtmlImage/36.avif"
+        "pagePath" : "https://youtu.be/2jMwbNwOhzM?si=7e6NB7oXKb7hdAxj",
+        "thumbnail" : "/Image/HtmlImage/36.avif",
+        "txtBtn" : "View Now"
     },
     {
         "id" : "37",
-        "title" : "The End",
+        "title" : "Responsive Design with CSS",
         "instractor" : "Osama Elzero",
-        "videoPath" : "https://youtu.be/ysJQH5uPfTg?si=Ga9ZLjJtOKNT5_sS",
-        "thumbnail" : "/Image/HtmlImage/37.avif"
+        "pagePath" : "https://youtu.be/sYOhF5Zs6Fk?si=3VdgcS_ubHdiOlOH",
+        "thumbnail" : "/Image/HtmlImage/37.avif",
+        "txtBtn" : "View Now"
     }
-    
 ]
